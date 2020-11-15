@@ -40,3 +40,6 @@ class CalendarsController < ApplicationController
 
   end
 end
+
+require 'date'
+    today.wday
